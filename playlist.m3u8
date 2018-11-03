@@ -686,6 +686,9 @@ https://s2.seplay.net/content/stream/films/the.purge.s01e08.1080p.rus.lostfilm.t
 #EXTINF:0 group-title="Судная ночь" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1540958624_nup_183996_0023_full.jpg", 1 сезон 9 серия 'Я буду участвовать'
 #EXTGRP:Судная ночь
 https://s2.seplay.net/content/stream/films/the.purge.s01e09.1080p.gostfilm_78794/hls/index.m3u8
+#EXTINF:0 group-title="Судная ночь" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1540958624_nup_183996_0023_full.jpg", 1 сезон 9 серия 'Я приму участие'
+#EXTGRP:Судная ночь
+https://s2.seplay.net/content/stream/films/the.purge.s01e09.1080p.rus.lostfilm.tv_79026/hls/index.m3u8
 #EXTINF:0 group-title="Flash" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1496686098_219796.max-620x600.jpg", 1 сезон 4 серия 'Во все тяжкие'
 #EXTGRP:Flash
 https://s1.seplay.net/content/stream/films/the.flash.s01e04.1080p.rus.lostfilm.tv/hls/index.m3u8
@@ -1058,6 +1061,9 @@ https://s2.seplay.net/content/stream/films/marvels.daredevil.s03e13.webdl.1080p.
 #EXTINF:0 group-title="Daredevil" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539938053_mv5bzgvkytzhzjmtyzvmzi00mzrhltg0mmutmdk5mgm5ymzmn2i0xkeyxkfqcgdeqxvymjqynje0oty._v1_sy1000_cr0014971000_al_.jpg", 3 сезон 4 серия 'Ослепший'
 #EXTGRP:Daredevil
 https://s2.seplay.net/content/stream/films/marvels.daredevil.s03e04.1080p.rus.lostfilm.tv_78709/hls/index.m3u8
+#EXTINF:0 group-title="Daredevil" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539938387_mv5bmta5ndc4nzm1njjeqtjeqwpwz15bbwu4mdi5njg5ndyz._v1_sy1000_cr0014991000_al_.jpg", 3 сезон 5 серия 'Идеальная игра'
+#EXTGRP:Daredevil
+https://s1.seplay.net/content/stream/films/marvels.daredevil.s03e05.1080p.rus.lostfilm.tv_79071/hls/index.m3u8
 #EXTINF:0 group-title="Одаренные" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1507004787_the-gifted.jpg", 1 сезон 1 серия 'Разоблачение'
 #EXTGRP:Одаренные
 https://s1.seplay.net/content/stream/films/the.gifted.s01e01.1o8op.amzn.webdl.fox_66773/hls/index.m3u8
