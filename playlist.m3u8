@@ -1493,6 +1493,9 @@ https://s2.seplay.net/content/stream/films/the.walking.dead.s09e04.1080p.webdl.f
 #EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1540786623_twd_904_gp_0612_0507_rt_full.jpg", 9 сезон 4 серия 'Принужденные'
 #EXTGRP:Ходячие мертвецы
 https://s2.seplay.net/content/stream/films/the.walking.dead.s09e04.1080p.rus.lostfilm.tv_78717/hls/index.m3u8
+#EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1541395070_mv5bodeznzcxodawmv5bml5banbnxkftztgwmzc3mjc2njm._v1_sx1500_cr001500999_al_.jpg", 9 сезон 5 серия 'Что приходит после'
+#EXTGRP:Ходячие мертвецы
+https://s1.seplay.net/content/stream/films/the.walking.dead.s09e05.720p.coldfilm_79254/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1444961498_60281.jpg", 1 сезон 4 серия 'Да истлеет кость'
 #EXTGRP:Слепое пятно
 https://s2.seplay.net/content/stream/films/blindspot.s01e04.720p.web.rus.lostfilm.tv/hls/index.m3u8
@@ -1685,3 +1688,18 @@ https://s1.seplay.net/content/stream/films/blindspot.s04e03.hd1080p.webdl.rus.en
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1540615066_nup_183752_0964_full.jpg", 4 сезон 3 серия 'Связь с Куантико'
 #EXTGRP:Слепое пятно
 https://s2.seplay.net/content/stream/films/blindspot.s04e03.1080p.rus.lostfilm.tv_78658/hls/index.m3u8
+#EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1541234409_nup_183921_0138_full.jpg", 4 сезон 4 серия 'Sous-Vide'
+#EXTGRP:Слепое пятно
+https://s1.seplay.net/content/stream/films/blindspot.s04e04.hd1080p.webdl.rus.eng.baibako.tv_79211/hls/index.m3u8
+#EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539357028_source-tit101e001220v1_full.jpg", 1 сезон 1 серия 'Titans'
+#EXTGRP:Titans
+https://s2.seplay.net/content/stream/films/titans.s01e01.1080p.rus.lostfilm.tv_77376/hls/index.m3u8
+#EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539945798_u7kxh_ym9fw.jpg", 1 сезон 2 серия 'Ястреб и голубка'
+#EXTGRP:Titans
+https://s2.seplay.net/content/stream/films/titans.s01e02.1080p.rus.lostfilm.tv_77931/hls/index.m3u8
+#EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1540565529_source-tit104a026920v1_full.jpg", 1 сезон 3 серия 'Истоки'
+#EXTGRP:Titans
+https://s2.seplay.net/content/stream/films/titans.s01e03.1080p.rus.lostfilm.tv_78573/hls/index.m3u8
+#EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1541168022_source-titans105c026020v1_full.jpg", 1 сезон 4 серия 'Роковой патруль'
+#EXTGRP:Titans
+https://s1.seplay.net/content/stream/films/titans.s01e04.1080p.rus.lostfilm.tv_79235/hls/index.m3u8
