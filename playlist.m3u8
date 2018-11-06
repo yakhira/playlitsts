@@ -659,6 +659,9 @@ https://s2.seplay.net/content/stream/films/arrow.s07e03.1080p.gostfilm_78707/hls
 #EXTINF:0 group-title="Arrow" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1540872161_mv5bndg3mtk0otutm2i0oc00zmfilwjhyzctnzqzntq4m2qxyjkwxkeyxkfqcgdeqxvymjkyntg0mtm._v1_.jpg", 7 сезон 3 серия 'Пересечь черту'
 #EXTGRP:Arrow
 https://s2.seplay.net/content/stream/films/arrow.s07e03.1080p.rus.lostfilm.tv_78795/hls/index.m3u8
+#EXTINF:0 group-title="Arrow" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1541472680_ar704a_0041b.jpg", 7 сезон 4 серия 'Второй уровень'
+#EXTGRP:Arrow
+https://s1.seplay.net/content/stream/films/arrow.s07e04.1080p.gostfilm_79382/hls/index.m3u8
 #EXTINF:0 group-title="Судная ночь" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1536126788_mv5bmgvjotbmzgytmtq5zi00ytm1lwjknmytotzjn2ixmji0mjk5xkeyxkfqcgdeqxvymjywnda2mde._v1_sx1777_cr001777999_al_.jpg", 1 сезон 1 серия 'Что есть Америка?'
 #EXTGRP:Судная ночь
 https://s1.seplay.net/content/stream/films/the.purge.s01e01.1080p.rus.lostfilm.tv_73777/hls/index.m3u8
@@ -1064,6 +1067,9 @@ https://s2.seplay.net/content/stream/films/marvels.daredevil.s03e04.1080p.rus.lo
 #EXTINF:0 group-title="Daredevil" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539938387_mv5bmta5ndc4nzm1njjeqtjeqwpwz15bbwu4mdi5njg5ndyz._v1_sy1000_cr0014991000_al_.jpg", 3 сезон 5 серия 'Идеальная игра'
 #EXTGRP:Daredevil
 https://s1.seplay.net/content/stream/films/marvels.daredevil.s03e05.1080p.rus.lostfilm.tv_79071/hls/index.m3u8
+#EXTINF:0 group-title="Daredevil" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539940855_mv5bnjyzoty4njgwof5bml5banbnxkftztgwmjq1nti0njm._v1_sx1500_cr001500999_al_.jpg", 3 сезон 6 серия 'Дьявол, которого ты знаешь'
+#EXTGRP:Daredevil
+https://s1.seplay.net/content/stream/films/marvels.daredevil.s03e06.rus.lostfilm.tv_79393/hls/index.m3u8
 #EXTINF:0 group-title="Одаренные" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1507004787_the-gifted.jpg", 1 сезон 1 серия 'Разоблачение'
 #EXTGRP:Одаренные
 https://s1.seplay.net/content/stream/films/the.gifted.s01e01.1o8op.amzn.webdl.fox_66773/hls/index.m3u8
@@ -1496,6 +1502,9 @@ https://s2.seplay.net/content/stream/films/the.walking.dead.s09e04.1080p.rus.los
 #EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1541395070_mv5bodeznzcxodawmv5bml5banbnxkftztgwmzc3mjc2njm._v1_sx1500_cr001500999_al_.jpg", 9 сезон 5 серия 'Что приходит после'
 #EXTGRP:Ходячие мертвецы
 https://s1.seplay.net/content/stream/films/the.walking.dead.s09e05.720p.coldfilm_79254/hls/index.m3u8
+#EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1541409296_19_full.jpg", 9 сезон 5 серия 'Что будет потом'
+#EXTGRP:Ходячие мертвецы
+https://s1.seplay.net/content/stream/films/the.walking.dead.s09e05.rus.lostfilm.tv_79395/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1444961498_60281.jpg", 1 сезон 4 серия 'Да истлеет кость'
 #EXTGRP:Слепое пятно
 https://s2.seplay.net/content/stream/films/blindspot.s01e04.720p.web.rus.lostfilm.tv/hls/index.m3u8
@@ -1691,6 +1700,9 @@ https://s2.seplay.net/content/stream/films/blindspot.s04e03.1080p.rus.lostfilm.t
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1541234409_nup_183921_0138_full.jpg", 4 сезон 4 серия 'Sous-Vide'
 #EXTGRP:Слепое пятно
 https://s1.seplay.net/content/stream/films/blindspot.s04e04.hd1080p.webdl.rus.eng.baibako.tv_79211/hls/index.m3u8
+#EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1541234409_nup_183921_0138_full.jpg", 4 сезон 4 серия 'В вакууме'
+#EXTGRP:Слепое пятно
+https://s1.seplay.net/content/stream/films/blindspot.s04e04.1080p.rus.lostfilm.tv_79328/hls/index.m3u8
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539357028_source-tit101e001220v1_full.jpg", 1 сезон 1 серия 'Titans'
 #EXTGRP:Titans
 https://s2.seplay.net/content/stream/films/titans.s01e01.1080p.rus.lostfilm.tv_77376/hls/index.m3u8
