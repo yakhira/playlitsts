@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471859736_d744b4ce-43bb-afe0-377b-b217f19ecab3-ftwd-101-jl-0121-0067-891dc613c2b905fc620a20f709039e00.jpg", 1 сезон 1 серия 'Пилот'
+#EXTGRP:Electric dreams
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e05.real.life.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
 #EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471859736_d744b4ce-43bb-afe0-377b-b217f19ecab3-ftwd-101-jl-0121-0067-891dc613c2b905fc620a20f709039e00.jpg", 1 сезон 1 серия 'Пилот'
 #EXTGRP:Бойтесь ходячих мертвецов
 https://s1.seplay.net/content/stream/films/fear.the.walking.dead.s01e01.720p.hdtv.rus.eng.casstudio/hls/index.m3u8
