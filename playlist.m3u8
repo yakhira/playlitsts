@@ -1,175 +1,154 @@
 #EXTM3U
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471859736_d744b4ce-43bb-afe0-377b-b217f19ecab3-ftwd-101-jl-0121-0067-891dc613c2b905fc620a20f709039e00.jpg", 1 сезон 1 серия 'Пилот'
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393037_killjoys_gallery_101recap_24-1.jpg", 1 сезон 1 серия 'Переполох'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s01e01.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393115_killjoys_gallery_102recap_03-1.jpg", 1 сезон 2 серия 'Побег из Шуга-Пойнта'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s01e02.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393182_s1e3-main-the_harvest.jpg", 1 сезон 3 серия 'Добыча'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s01e03.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393248_killjoys_season_1_vessel.jpg", 1 сезон 4 серия 'Корабль'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s01e04.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393278_1.05i.png", 1 сезон 5 серия 'Глюк в системе'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s01e05.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393341_killjoys_gallery_106recap_12-1.jpg", 1 сезон 6 серия 'Одна кровь'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s01e06.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393293_nup_166814_0009.jpg", 1 сезон 7 серия 'Чмок-чмок, пока-пока'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s01e07.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393339_nup_166815_0021.jpg", 1 сезон 8 серия 'Да хлынет дождь'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s01e08.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393386_killjoys-season-1-episode-9-1.jpg", 1 сезон 9 серия 'Враждебный Хайлен'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s01e09.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393451_nup_166819_0011.jpg", 1 сезон 10 серия 'Вторая космическая'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s01e10.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1505815246_philip-k-dicks-electric-dreams-s01e01-the-hood-maker-03-birthmark.jpg", 1 сезон 1 серия 'Капюшонщик'
+#EXTGRP:Electric dreams
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e01.the.hood.maker.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1506310740_1505719408972.jpg", 1 сезон 2 серия 'Планета, которой не было'
+#EXTGRP:Electric dreams
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e02.impossible.planet.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1506930256_electric_dreams_the_commuter.jpg", 1 сезон 3 серия 'Проездной билет'
+#EXTGRP:Electric dreams
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e03.the.commuter.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1507549069_crazydiamond071700173-600x400.jpg", 1 сезон 4 серия 'Сумасшедший бриллиант'
+#EXTGRP:Electric dreams
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e04.crazy.diamond.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1508125940_10420170505pl0247-fbbe4c8.jpg", 1 сезон 5 серия 'Настоящая жизнь'
 #EXTGRP:Electric dreams
 http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e05.real.life.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471859736_d744b4ce-43bb-afe0-377b-b217f19ecab3-ftwd-101-jl-0121-0067-891dc613c2b905fc620a20f709039e00.jpg", 1 сезон 1 серия 'Пилот'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/fear.the.walking.dead.s01e01.720p.hdtv.rus.eng.casstudio/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471859767_1-c30589e0af7f204d8ef1d6ff8e183cce.png", 1 сезон 2 серия 'Так близко, и всё-таки далеко'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/fear.the.walking.dead.s01e02.720p.hdtv.rus.eng.casstudio/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471859773_2-ac8ad4dc3761dc50d84dea98eb7ef8fe.jpg", 1 сезон 3 серия 'Собака'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/fear.the.walking.dead.s01e03.720p.hdtv.rus.eng.casstudio/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471859818_ftwd_104_jm_0706_0156.jpg", 1 сезон 4 серия 'Не исчезай'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/fear.the.walking.dead.s01e04.720p.hdtv.rus.eng.casstudio/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471859920_7-da799b6762f19e224305433d99c49042.png", 1 сезон 5 серия 'Кобальт'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/fear.the.walking.dead.s01e05.720p.hdtv.rus.eng.casstudio/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471860000_fear-the-walking-dead-106-victor-strand.jpg", 1 сезон 6 серия 'Хороший человек'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/fear.the.walking.dead.s01e06.720p.hdtv.rus.eng/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1450887476_l7cjkbzkboy.jpg", 1 сезон спецвыпуск 'Рейс 462'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/fear.the.walking.dead.s01e01.webisode.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1459539663_20055545126_6121838c83_o.jpg", 1 сезон 2 спецвыпуск 'Рейс 462'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/fear.the.walking.dead.s01e02.webisode.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1460343093_pf7g8azju5n6x97jo4vgitqxu16kfdb9-9580daac32ce2c9811834f3e7a5804bf.jpg", 2 сезон 1 серия 'Монстр'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e01.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471859645_zffhaq3cob4nae1nqd75ibkg4i639a4g-f716006570124c3de51ea96c103917d6.jpg", 2 сезон 2 серия 'И мы все падём'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e02.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1461551884_5q6135ayno8ovf72881m19utajfxjdud-942db68e471000f6f4c5a57802b2e180.jpg", 2 сезон 3 серия 'Уроборос'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e03.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471859541_1-6eab3f3a995481537cc07f97bb6f76e6.png", 2 сезон 4 серия 'Улицы в крови'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e04.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1462760742_dg3v8uzx15npaojjmzz6c1zbpuk2t11z-a9c9834de8c78bfbc015975d64ff2c93.jpg", 2 сезон 5 серия 'Пленник'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e05.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471859540_614rbje3i2md7bgtxy3ecm5g6gxquirj-5ad7f1dec710d881c603ec9bcf6eea6c.jpg", 2 сезон 6 серия 'Как лань'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e06.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1463980035_6ca4c67d86994733c7aa264f832aa7df.jpg", 2 сезон 7 серия 'Шива'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e07.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1471841643_pfy5n4wzztyz5dyixgoixjhvesvp6sxt-e1d4ef2d37ace0ef8324b30f780ef109.jpg", 2 сезон 8 серия 'Гротеск'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e08.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1472447332_91drd4owego144awngduwsayuvt9q13n-8341b604f028805897693688d81f1f77.jpg", 2 сезон 9 серия 'Мертвецы'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e09.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1473073383_mt54nuuupij959rt99nhyrev2gn11b3p-14fb135166b51eb850d24a729ea86264.jpg", 2 сезон 10 серия 'Не беспокоить'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e10.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1473673228_4wkfquwpqqe.jpg", 2 сезон 11 серия 'Пабло и Джессика'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e11.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1474261756_rzollt2yb14.jpg", 2 сезон 12 серия 'Соляной столб'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e12.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1474861096_a6aj-xb1ria.jpg", 2 сезон 13 серия 'Дата смерти'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e13.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1475467988_fear-the-walking-dead-large.jpg", 2 сезон 14 серия 'Гнев'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e14.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1475472376_fear-the-walking-dead-episode-215-alejandro-calderon-pre-800x600.jpg", 2 сезон 15 серия 'Север'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s02e15.1080p.amc.qqss44/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1485281904_fear_twd_passages_pt1_02-800x600.jpg", 2 сезон спецвыпуск 'Переход'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/fear.the.walking.dead.s02e01.webisode.720p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1496633242_dahjld8xgaacaxu.jpg", 3 сезон 1 серия 'В глазах смотрящего'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e01.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1525372532_e_3_2.jpg", 3 сезон 2 серия 'Новая граница'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e02.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1497243364_je7a3mrjl-4.jpg", 3 сезон 3 серия 'Конец мира, который мы знали'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e03.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1497846297_xp_5rsccvf4.jpg", 3 сезон 4 серия '100'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e04.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1498451213_on9rekwfglo.jpg", 3 сезон 5 серия 'Горим в огне, тонем в пламени'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e05.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1499053600_img.jpg", 3 сезон 6 серия 'Красная грязь'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e06.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1499659890_dd4h3iauwaal1b1.jpg", 3 сезон 7 серия 'Открытие'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e07.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1499660041_dejpeo4xcaijx_w.jpg", 3 сезон 8 серия 'Дети гнева'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e08.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1505107582_w2dmb1r9jas.jpg", 3 сезон 9 серия 'Минотавр'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e09.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1505109954_vdkdqp7tyrw.jpg", 3 сезон 10 серия 'Прорицатель'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e10.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1505710732_igobmaidfiy.jpg", 3 сезон 11 серия 'Змея'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e11.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1506317345_ql0a0ij9k3e.jpg", 3 сезон 12 серия 'Хранитель брата'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e12.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1506915107_tiujnyioqzg.jpg", 3 сезон 13 серия 'Эта земля — ваша земля'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e13.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1507520775_jdcb8trqxrq.jpg", 3 сезон 14 серия 'Эль Матадео'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e14.1080p.webdl.amc_66428/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1508128946_tcfswsabfac.jpg", 3 сезон 15 серия 'Начало плохих вещей'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e15.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1508244774_ftwd_315_rf_0626_1881-rt.jpg", 3 сезон 16 серия 'Езда на санях'
-#EXTGRP:Бойтесь ходячих мертвецов
-https://s1.seplay.net/content/stream/films/ftwd.s03e16.1080p.webdl.amc/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1523854315_o9irbjv4jow.jpg", 4 сезон 1 серия 'А у вас какая история?'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e01.1080p.amc_66413/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1524458452_180305-ftwd.jpg", 4 сезон 2 серия 'Еще один день в Алмазе'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e02.1080p.amc_63557/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1525061194_ftwd-403-1-600x450.jpg", 4 сезон 3 серия 'Здесь хорошо'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e03.1080p.amc_64279/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1525663260_fnmyvhzxsyc.jpg", 4 сезон 4 серия 'Погребенный'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e04.1080p.amc_64857/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1526269919_rp2vmrmrqnc.jpg", 4 сезон 5 серия 'Лора'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e05.1080p.amc_65528/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1526872702_tumblr_p8qrhvfuei1vwrm9ao2_1280.jpg", 4 сезон 6 серия 'На всякий случай'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e06.1080p.amc_66176/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1528083125_ba6ygwe9hoy.jpg", 4 сезон 7 серия 'Та же ситуация, та же ошибка'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e07.1080p.amc_67109/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1528687896_ftwd-408-rf-0301-0396-rt-min.jpg", 4 сезон 8 серия 'Никто не потерян'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e08.1080p.amc_67574/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1534130561_ivji5vofnn4.jpg", 4 сезон 9 серия 'Такие люди, как мы'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e09.1080p.amc_72191/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1534738568_dkafq5wu8aehqke.jpg", 4 сезон 10 серия 'Закрой глаза'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e10.1080p.amc_72568/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1535340297_ftwd-411-rg-0411-0239-rt-min.jpg", 4 сезон 11 серия 'Кодекс'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e11.1080p.amc_72963/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1535954281_sgra-r56jrs.jpg", 4 сезон 12 серия 'Слабые'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e12.1080p.amc_73448/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1536559064_mtzru4nt0p8.jpg", 4 сезон 13 серия 'Блэкджэк'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e13.1080p.amc_73967/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1537155945_ftwd-alicia-414-1134090-1280x0.jpeg", 4 сезон 14 серия 'MM 54'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e14.1080p.amc_74555/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1537761562_bdukita6v0q.jpg", 4 сезон 15 серия 'Я теряю людей...'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e15.1080p.amc_75156/hls/index.m3u8
-#EXTINF:0 group-title="Бойтесь ходячих мертвецов" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1538366890_ebuqfmq.jpeg", 4 сезон 16 серия 'Я теряю себя'
-#EXTGRP:Бойтесь ходячих мертвецов
-http://s1.seplay.net/content/stream/films/fear.the.walking.dead.s04e16.1080p.rus.lostfilm.tv_75697/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1509339128_pkd0274-89d1939.jpg", 1 сезон 6 серия 'Человек — это'
+#EXTGRP:Electric dreams
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e06.human.is.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1515941881_22.jpg", 1 сезон 7 серия 'Убить всех иных'
+#EXTGRP:Electric dreams
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e07.kill.all.others.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1515945160_1213.jpg", 1 сезон 8 серия 'Аутофак'
+#EXTGRP:Electric dreams
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e08.autofac.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1515944959_9.jpg", 1 сезон 9 серия 'В целости и сохранности'
+#EXTGRP:Electric dreams
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e09.safe.and.sound.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1515944993_10.jpg", 1 сезон 10 серия 'Проблемы с отцом'
+#EXTGRP:Electric dreams
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e10.the.father.thing.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393513_dutch_s2e1_008.jpg", 2 сезон 1 серия 'Датч и обычная деушка'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s02e01.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393594_nup_174077_0185-e1468019571535.jpg", 2 сезон 2 серия 'Дикий, Дикий Уэстерли'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s02e02.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393600_killjoys_hero_203_0.jpg", 2 сезон 3 серия 'Шахта'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s02e03.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393652_killjoys_gallery_204recap_06.jpg", 2 сезон 4 серия 'Школа'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s02e04.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393689_nup_174081_0350.jpg", 2 сезон 5 серия 'Знакомство с родителями'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s02e05.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393750_killjoys-i-love-lucy.jpg", 2 сезон 6 серия 'Я люблю Люси'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s02e06.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393770_heart-shaped_box_s2e7.jpg", 2 сезон 7 серия 'Шкатулка в форме сердца'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s02e07.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393799_nup_174085_0102-1000x525.jpg", 2 сезон 8 серия 'Цельнометаллический монах'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s02e08.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393923_killjoys-johnny-be-good-2.jpg", 2 сезон 9 серия 'Будь паинькой, Джонни'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s02e09.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393957_nup_174089_0001-450x300.jpg", 2 сезон 10 серия 'Как убивать друзей и оказывать влияние на людей'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s02e10.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1498881056_zvccvdiyc3y.jpg", 3 сезон 1 серия 'Чушь собачья'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s03e01.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1499487750_e1ripy82prg.jpg", 3 сезон 2 серия 'Сквозь тусклый мешок'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s03e02.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1500003655_screen-shot-2017-07-07-at-5.42.28-am-www.imagesplitter.net.jpeg", 3 сезон 3 серия 'У халленов есть глаза'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s03e03.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1500696010_nhdmyvdg1yu.jpg", 3 сезон 4 серия 'Лев, колдунья и волшебный При'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s03e04.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1501303396_gg9jekw54h8.jpg", 3 сезон 5 серия 'Чужие в КЗР'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s03e05.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1501791069_nup_178348_0069-www.imagesplitter.net-1.jpeg", 3 сезон 6 серия 'Некрополис сегодня'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s03e06.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1502399043_nup_178350_0050.jpg", 3 сезон 7 серия 'Волк, которого ты кормишь'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s03e07.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1503115482_hpti52sw_gu.jpg", 3 сезон 8 серия 'Грабь, грабь, детка'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s03e08.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1503524064_1.jpg", 3 сезон 9 серия 'Груз раскаяния'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s03e09.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1504291494_4a2fj0ztcxo.jpg", 3 сезон 10 серия 'Взрывазм'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s03e10.1080p.rus.lostfilm.tv/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1532146691_p3dgnv86ory.jpg", 4 сезон 1 серия 'Королева воинов, принцесса-невеста'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s04e01.1080p.rus.lostfilm.tv_70284/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1532751612_k2obl.jpg", 4 сезон 2 серия 'Опасный Джонни'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s04e02.1080p.rus.lostfilm.tv_70871/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1533355103_oqcfs26kbje.jpg", 4 сезон 3 серия 'Не по пути'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s04e03.1080p.rus.lostfilm.tv_71458/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1533957616_g0kq1oekn8q.jpg", 4 сезон 4 серия 'Чего ждать, когда ждешь... инопланетного паразита'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s04e04.1080p.rus.lostfilm.tv_71983/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1534577658_efmv8ubdwfq.jpg", 4 сезон 5 серия 'Трудный возраст'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s04e05.1080p.rus.lostfilm.tv_72520/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1535174527_screen-shot-2018-08-11-at-5.43.33-am-www.imagesplitter.net.jpeg", 4 сезон 6 серия 'Моя няня - убийца'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s04e06.1080p.rus.lostfilm.tv_72910/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1535774748_stogykjl_j0.jpg", 4 сезон 7 серия 'О где же ты, матушка?'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s04e07.1080p.rus.lostfilm.tv_73363/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1536377397_myqv_i2n-ew.jpg", 4 сезон 8 серия 'У семи киллджоев...'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s04e08.1080p.rus.lostfilm.tv_73909/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1536985850_nup_183248_0211_full.jpg", 4 сезон 9 серия 'Детки в порядке?'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s04e09.1080p.rus.lostfilm.tv_74490/hls/index.m3u8
+#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1537609933_1jkthghqpmi.jpg", 4 сезон 10 серия 'Спормагеддон'
+#EXTGRP:Electric dreams
+https://s1.seplay.net/content/stream/films/killjoys.s04e10.1080p.rus.lostfilm.tv_75120/hls/index.m3u8
 #EXTINF:0 group-title="Arrow" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1508949325_e_1_4.jpg", 1 сезон 4 серия 'Невиновный'
 #EXTGRP:Arrow
 https://s1.seplay.net/content/stream/films/arrow.s01e04.720p.rus.lostfilm.tv/hls/index.m3u8
@@ -946,7 +925,7 @@ http://s2.seplay.net/content/stream/films/marvels.daredevil.s03e07.webdl.1080p.n
 http://s2.seplay.net/content/stream/films/marvels.daredevil.s03e08.webdl.1080p.newstudio.tv_78755/hls/index.m3u8
 #EXTINF:0 group-title="Daredevil" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539943810_mv5bmtgxnzy5otc2mf5bml5banbnxkftztgwmtc1nti0njm._v1_sx1500_cr001500999_al_.jpg", 3 сезон 9 серия 'Revelations'
 #EXTGRP:Daredevil
-http://s2.seplay.net/content/stream/films/marvels.daredevil.s03e09.webdl.1080p.newstudio.tv_78756/hls/index.m3u8
+http://s2.seplay.net/content/stream/films/marvels.daredevil.s03e09.1080p.rus.lostfilm.tv_80347/hls/index.m3u8
 #EXTINF:0 group-title="Daredevil" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539943928_429906.jpg", 3 сезон 10 серия 'Karen'
 #EXTGRP:Daredevil
 http://s2.seplay.net/content/stream/films/marvels.daredevil.s03e10.webdl.1080p.newstudio.tv_78757/hls/index.m3u8
@@ -1621,7 +1600,7 @@ http://s1.seplay.net/content/stream/films/blindspot.s04e04.1080p.rus.lostfilm.tv
 http://s1.seplay.net/content/stream/films/blindspot.s04e05.1080p.rus.lostfilm.tv_79927/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_443daa7ac8fce9f1dd75b7c23fcb136b.jpg", 4 сезон 6 серия 'Ка-ка-кандидат на пре-пре-преступление'
 #EXTGRP:Слепое пятно
-http://s2.seplay.net/content/stream/films/blindspot.s04e06.720p.hdtv.x264cravers_80328/hls/index.m3u8
+http://s1.seplay.net/content/stream/films/blindspot.s04e06.1080p.coldfilm_80354/hls/index.m3u8
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539357028_source-tit101e001220v1_full.jpg", 1 сезон 1 серия 'Titans'
 #EXTGRP:Titans
 http://s2.seplay.net/content/stream/films/titans.s01e01.1080p.rus.lostfilm.tv_77376/hls/index.m3u8
