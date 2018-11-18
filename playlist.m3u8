@@ -1502,3 +1502,21 @@ http://s1.seplay.net/content/stream/films/titans.s01e05.1080p.rus.lostfilm.tv_79
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_110593d50c0f8f43274cec6e4052eb88.jpg", 1 сезон 6 серия 'Джейсон Тодд'
 #EXTGRP:Titans
 http://s1.seplay.net/content/stream/films/titans.s01e06.hd1080p.webrip.rus.eng.baibako.tv_80286/hls/index.m3u8
+#EXTINF:0 group-title="Black mirror" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1514543047_black-mirror-season-4-uss-callister.jpg", 4 сезон 1 серия 'Каллистер”'
+#EXTGRP:Black mirror
+http://s2.seplay.net/content/stream/films/black.mirror.s04e01.1080p.rus.lostfilm.tv_76398/hls/index.m3u8
+#EXTINF:0 group-title="Black mirror" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1514543601_blackmirror_s4_arkangel-920x584.jpg", 4 сезон 2 серия 'Аркангел'
+#EXTGRP:Black mirror
+http://s2.seplay.net/content/stream/films/black.mirror.s04e02.1080p.rus.lostfilm.tv_76399/hls/index.m3u8
+#EXTINF:0 group-title="Black mirror" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1514543758_blackmirror_s4_crocodile_00401_v1-1366x911.jpg", 4 сезон 3 серия 'Крокодил'
+#EXTGRP:Black mirror
+http://s2.seplay.net/content/stream/films/black.mirror.s04e03.1080p.rus.lostfilm.tv_76400/hls/index.m3u8
+#EXTINF:0 group-title="Black mirror" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1522664556_10-hang-the-dj.w710.h473.jpg", 4 сезон 4 серия 'Повесь диджея'
+#EXTGRP:Black mirror
+http://s2.seplay.net/content/stream/films/black.mirror.s04e04.1080p.rus.lostfilm.tv_76401/hls/index.m3u8
+#EXTINF:0 group-title="Black mirror" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1514544503_black-mirror-metalhead-maxine-peake.jpg", 4 сезон 5 серия 'Стальная башка'
+#EXTGRP:Black mirror
+http://s2.seplay.net/content/stream/films/black.mirror.s04e05.1080p.rus.lostfilm.tv_76402/hls/index.m3u8
+#EXTINF:0 group-title="Black mirror" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1514544758_54880-black-mirror-black-museum-trailer.jpg", 4 сезон 6 серия 'Черный музей'
+#EXTGRP:Black mirror
+http://s2.seplay.net/content/stream/films/black.mirror.s04e06.1080p.rus.lostfilm.tv_76403/hls/index.m3u8
