@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393037_killjoys_gallery_101recap_24-1.jpg", 1 сезон 1 серия 'Переполох'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s01e01.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393115_killjoys_gallery_102recap_03-1.jpg", 1 сезон 2 серия 'Побег из Шуга-Пойнта'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s01e02.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393182_s1e3-main-the_harvest.jpg", 1 сезон 3 серия 'Добыча'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s01e03.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393248_killjoys_season_1_vessel.jpg", 1 сезон 4 серия 'Корабль'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s01e04.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393278_1.05i.png", 1 сезон 5 серия 'Глюк в системе'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s01e05.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393341_killjoys_gallery_106recap_12-1.jpg", 1 сезон 6 серия 'Одна кровь'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s01e06.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393293_nup_166814_0009.jpg", 1 сезон 7 серия 'Чмок-чмок, пока-пока'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s01e07.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393339_nup_166815_0021.jpg", 1 сезон 8 серия 'Да хлынет дождь'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s01e08.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393386_killjoys-season-1-episode-9-1.jpg", 1 сезон 9 серия 'Враждебный Хайлен'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s01e09.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393451_nup_166819_0011.jpg", 1 сезон 10 серия 'Вторая космическая'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s01e10.1080p.rus.lostfilm.tv/hls/index.m3u8
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1505815246_philip-k-dicks-electric-dreams-s01e01-the-hood-maker-03-birthmark.jpg", 1 сезон 1 серия 'Капюшонщик'
 #EXTGRP:Electric dreams
 http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e01.the.hood.maker.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
@@ -59,96 +29,6 @@ http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e09.
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1515944993_10.jpg", 1 сезон 10 серия 'Проблемы с отцом'
 #EXTGRP:Electric dreams
 http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e10.the.father.thing.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393513_dutch_s2e1_008.jpg", 2 сезон 1 серия 'Датч и обычная деушка'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s02e01.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393594_nup_174077_0185-e1468019571535.jpg", 2 сезон 2 серия 'Дикий, Дикий Уэстерли'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s02e02.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393600_killjoys_hero_203_0.jpg", 2 сезон 3 серия 'Шахта'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s02e03.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393652_killjoys_gallery_204recap_06.jpg", 2 сезон 4 серия 'Школа'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s02e04.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393689_nup_174081_0350.jpg", 2 сезон 5 серия 'Знакомство с родителями'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s02e05.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393750_killjoys-i-love-lucy.jpg", 2 сезон 6 серия 'Я люблю Люси'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s02e06.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393770_heart-shaped_box_s2e7.jpg", 2 сезон 7 серия 'Шкатулка в форме сердца'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s02e07.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393799_nup_174085_0102-1000x525.jpg", 2 сезон 8 серия 'Цельнометаллический монах'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s02e08.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393923_killjoys-johnny-be-good-2.jpg", 2 сезон 9 серия 'Будь паинькой, Джонни'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s02e09.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1476393957_nup_174089_0001-450x300.jpg", 2 сезон 10 серия 'Как убивать друзей и оказывать влияние на людей'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s02e10.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1498881056_zvccvdiyc3y.jpg", 3 сезон 1 серия 'Чушь собачья'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s03e01.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1499487750_e1ripy82prg.jpg", 3 сезон 2 серия 'Сквозь тусклый мешок'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s03e02.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1500003655_screen-shot-2017-07-07-at-5.42.28-am-www.imagesplitter.net.jpeg", 3 сезон 3 серия 'У халленов есть глаза'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s03e03.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1500696010_nhdmyvdg1yu.jpg", 3 сезон 4 серия 'Лев, колдунья и волшебный При'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s03e04.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1501303396_gg9jekw54h8.jpg", 3 сезон 5 серия 'Чужие в КЗР'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s03e05.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1501791069_nup_178348_0069-www.imagesplitter.net-1.jpeg", 3 сезон 6 серия 'Некрополис сегодня'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s03e06.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1502399043_nup_178350_0050.jpg", 3 сезон 7 серия 'Волк, которого ты кормишь'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s03e07.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1503115482_hpti52sw_gu.jpg", 3 сезон 8 серия 'Грабь, грабь, детка'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s03e08.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1503524064_1.jpg", 3 сезон 9 серия 'Груз раскаяния'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s03e09.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1504291494_4a2fj0ztcxo.jpg", 3 сезон 10 серия 'Взрывазм'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s03e10.1080p.rus.lostfilm.tv/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1532146691_p3dgnv86ory.jpg", 4 сезон 1 серия 'Королева воинов, принцесса-невеста'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s04e01.1080p.rus.lostfilm.tv_70284/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1532751612_k2obl.jpg", 4 сезон 2 серия 'Опасный Джонни'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s04e02.1080p.rus.lostfilm.tv_70871/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1533355103_oqcfs26kbje.jpg", 4 сезон 3 серия 'Не по пути'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s04e03.1080p.rus.lostfilm.tv_71458/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1533957616_g0kq1oekn8q.jpg", 4 сезон 4 серия 'Чего ждать, когда ждешь... инопланетного паразита'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s04e04.1080p.rus.lostfilm.tv_71983/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1534577658_efmv8ubdwfq.jpg", 4 сезон 5 серия 'Трудный возраст'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s04e05.1080p.rus.lostfilm.tv_72520/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1535174527_screen-shot-2018-08-11-at-5.43.33-am-www.imagesplitter.net.jpeg", 4 сезон 6 серия 'Моя няня - убийца'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s04e06.1080p.rus.lostfilm.tv_72910/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1535774748_stogykjl_j0.jpg", 4 сезон 7 серия 'О где же ты, матушка?'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s04e07.1080p.rus.lostfilm.tv_73363/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1536377397_myqv_i2n-ew.jpg", 4 сезон 8 серия 'У семи киллджоев...'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s04e08.1080p.rus.lostfilm.tv_73909/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1536985850_nup_183248_0211_full.jpg", 4 сезон 9 серия 'Детки в порядке?'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s04e09.1080p.rus.lostfilm.tv_74490/hls/index.m3u8
-#EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1537609933_1jkthghqpmi.jpg", 4 сезон 10 серия 'Спормагеддон'
-#EXTGRP:Electric dreams
-https://s1.seplay.net/content/stream/films/killjoys.s04e10.1080p.rus.lostfilm.tv_75120/hls/index.m3u8
 #EXTINF:0 group-title="Arrow" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1508949325_e_1_4.jpg", 1 сезон 4 серия 'Невиновный'
 #EXTGRP:Arrow
 https://s1.seplay.net/content/stream/films/arrow.s01e04.720p.rus.lostfilm.tv/hls/index.m3u8
@@ -1600,7 +1480,7 @@ http://s1.seplay.net/content/stream/films/blindspot.s04e04.1080p.rus.lostfilm.tv
 http://s1.seplay.net/content/stream/films/blindspot.s04e05.1080p.rus.lostfilm.tv_79927/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_443daa7ac8fce9f1dd75b7c23fcb136b.jpg", 4 сезон 6 серия 'Ка-ка-кандидат на пре-пре-преступление'
 #EXTGRP:Слепое пятно
-http://s1.seplay.net/content/stream/films/blindspot.s04e06.1080p.coldfilm_80354/hls/index.m3u8
+http://s1.seplay.net/content/stream/films/blindspot.s04e06.hd720p.webdl.rus.eng.baibako.tv_80393/hls/index.m3u8
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539357028_source-tit101e001220v1_full.jpg", 1 сезон 1 серия 'Titans'
 #EXTGRP:Titans
 http://s2.seplay.net/content/stream/films/titans.s01e01.1080p.rus.lostfilm.tv_77376/hls/index.m3u8
