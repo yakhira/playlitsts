@@ -1277,6 +1277,9 @@ http://s2.seplay.net/content/stream/films/the.walking.dead.s09e05.1080p.rus.lost
 #EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1542025773_4.jpg", 9 сезон 6 серия 'Кто ты теперь?'
 #EXTGRP:Ходячие мертвецы
 http://s2.seplay.net/content/stream/films/the.walking.dead.s09e06.1080p.rus.lostfilm.tv_79989/hls/index.m3u8
+#EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_d9e6a526435094708d88048b2debaf24.jpg", 9 сезон 7 серия 'Страдивари'
+#EXTGRP:Ходячие мертвецы
+http://s1.seplay.net/content/stream/films/the.walking.dead.s09e07.hd1080p.webrip.rus.eng.baibako.tv_80594/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1444961498_60281.jpg", 1 сезон 4 серия 'Да истлеет кость'
 #EXTGRP:Слепое пятно
 https://s2.seplay.net/content/stream/films/blindspot.s01e04.720p.web.rus.lostfilm.tv/hls/index.m3u8
@@ -1481,6 +1484,9 @@ http://s1.seplay.net/content/stream/films/blindspot.s04e05.1080p.rus.lostfilm.tv
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_443daa7ac8fce9f1dd75b7c23fcb136b.jpg", 4 сезон 6 серия 'Ка-ка-кандидат на пре-пре-преступление'
 #EXTGRP:Слепое пятно
 http://s1.seplay.net/content/stream/films/blindspot.s04e06.hd720p.webdl.rus.eng.baibako.tv_80393/hls/index.m3u8
+#EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_443daa7ac8fce9f1dd75b7c23fcb136b.jpg", 4 сезон 6 серия 'Кандидат на преступление'
+#EXTGRP:Слепое пятно
+http://s2.seplay.net/content/stream/films/blindspot.s04e06.1080p.rus.lostfilm.tv_80604/hls/index.m3u8
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539357028_source-tit101e001220v1_full.jpg", 1 сезон 1 серия 'Titans'
 #EXTGRP:Titans
 http://s2.seplay.net/content/stream/films/titans.s01e01.1080p.rus.lostfilm.tv_77376/hls/index.m3u8
@@ -1501,7 +1507,7 @@ http://s1.seplay.net/content/stream/films/titans.s01e05.hd1080p.webrip.rus.eng.b
 http://s1.seplay.net/content/stream/films/titans.s01e05.1080p.rus.lostfilm.tv_79807/hls/index.m3u8
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_110593d50c0f8f43274cec6e4052eb88.jpg", 1 сезон 6 серия 'Джейсон Тодд'
 #EXTGRP:Titans
-http://s1.seplay.net/content/stream/films/titans.s01e06.hd1080p.webrip.rus.eng.baibako.tv_80286/hls/index.m3u8
+http://s2.seplay.net/content/stream/films/titans.s01e06.jaskier_80539/hls/index.m3u8
 #EXTINF:0 group-title="Black mirror" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1514543047_black-mirror-season-4-uss-callister.jpg", 4 сезон 1 серия 'Каллистер”'
 #EXTGRP:Black mirror
 http://s2.seplay.net/content/stream/films/black.mirror.s04e01.1080p.rus.lostfilm.tv_76398/hls/index.m3u8
