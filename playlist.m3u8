@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1505815246_philip-k-dicks-electric-dreams-s01e01-the-hood-maker-03-birthmark.jpg", 1 сезон 1 серия 'Капюшонщик'
 #EXTGRP:Electric dreams
-http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e01.the.hood.maker.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=01&nocontrols=1
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1506310740_1505719408972.jpg", 1 сезон 2 серия 'Планета, которой не было'
 #EXTGRP:Electric dreams
-http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e02.impossible.planet.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=02&nocontrols=1
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1506930256_electric_dreams_the_commuter.jpg", 1 сезон 3 серия 'Проездной билет'
 #EXTGRP:Electric dreams
-http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e03.the.commuter.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=03&nocontrols=1
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1507549069_crazydiamond071700173-600x400.jpg", 1 сезон 4 серия 'Сумасшедший бриллиант'
 #EXTGRP:Electric dreams
-http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e04.crazy.diamond.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=04&nocontrols=1
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1508125940_10420170505pl0247-fbbe4c8.jpg", 1 сезон 5 серия 'Настоящая жизнь'
 #EXTGRP:Electric dreams
 http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e05.real.life.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
@@ -22,13 +22,13 @@ http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e06.
 http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e07.kill.all.others.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1515945160_1213.jpg", 1 сезон 8 серия 'Аутофак'
 #EXTGRP:Electric dreams
-http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e08.autofac.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=08&nocontrols=1
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1515944959_9.jpg", 1 сезон 9 серия 'В целости и сохранности'
 #EXTGRP:Electric dreams
 http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e09.safe.and.sound.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1515944993_10.jpg", 1 сезон 10 серия 'Проблемы с отцом'
 #EXTGRP:Electric dreams
-http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e10.the.father.thing.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=10&nocontrols=1
 #EXTINF:0 group-title="Arrow" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1508949325_e_1_4.jpg", 1 сезон 4 серия 'Невиновный'
 #EXTGRP:Arrow
 https://s1.seplay.net/content/stream/films/arrow.s01e04.720p.rus.lostfilm.tv/hls/index.m3u8
@@ -407,6 +407,9 @@ http://s2.seplay.net/content/stream/films/arrow.s07e04.1080p.rus.lostfilm.tv_795
 #EXTINF:0 group-title="Arrow" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1542079335_ar705a-0165b-1142994.jpeg", 7 сезон 5 серия 'Демон'
 #EXTGRP:Arrow
 http://s2.seplay.net/content/stream/films/arrow.s07e05.1080p.rus.lostfilm.tv_80116/hls/index.m3u8
+#EXTINF:0 group-title="Arrow" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_94b912722eefb43445a80c17906ffc23.jpg", 7 сезон 6 серия 'По закону'
+#EXTGRP:Arrow
+http://s1.seplay.net/content/stream/films/arrow.s07e06.1080p.rus.lostfilm.tv_80869/hls/index.m3u8
 #EXTINF:0 group-title="Судная ночь" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1536126788_mv5bmgvjotbmzgytmtq5zi00ytm1lwjknmytotzjn2ixmji0mjk5xkeyxkfqcgdeqxvymjywnda2mde._v1_sx1777_cr001777999_al_.jpg", 1 сезон 1 серия 'Что есть Америка?'
 #EXTGRP:Судная ночь
 http://s1.seplay.net/content/stream/films/the.purge.s01e01.1080p.rus.lostfilm.tv_73777/hls/index.m3u8
@@ -701,6 +704,9 @@ http://fanserials.media//36867-flesh-5-sezon-5-seriya-vse-kukly.html#lostfilm
 #EXTINF:0 group-title="Flash" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1542165204_distracting-iris-the-flash.jpg", 5 сезон 5 серия 'Не игрушка'
 #EXTGRP:Flash
 http://s2.seplay.net/content/stream/films/the.flash.s05e05.1080p.rus.lostfilm.tv_80192/hls/index.m3u8
+#EXTINF:0 group-title="Flash" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_535505aa2c132af9cf912e932da25b99.jpg", 5 сезон 6 серия 'Явление сосульки'
+#EXTGRP:Flash
+http://s2.seplay.net/content/stream/films/the.flash.s05e06.1080p.rus.lostfilm.tv_80973/hls/index.m3u8
 #EXTINF:0 group-title="Daredevil" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1517911322_e_1_1.jpg", 1 сезон 1 серия 'На ринге'
 #EXTGRP:Daredevil
 https://s1.seplay.net/content/stream/films/marvels.daredevil.s01e01.1080p.rus.lostfilm.tv/hls/index.m3u8
@@ -833,6 +839,9 @@ http://s1.seplay.net/content/stream/films/marvels.daredevil.s03e07.1080p.rus.los
 #EXTINF:0 group-title="Daredevil" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539943690_429904.jpg", 3 сезон 8 серия 'Наверху/Внизу'
 #EXTGRP:Daredevil
 http://s1.seplay.net/content/stream/films/marvels.daredevil.s03e08.1080p.rus.lostfilm.tv_79981/hls/index.m3u8
+#EXTINF:0 group-title="Daredevil" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1539943928_429906.jpg", 3 сезон 10 серия 'Карен'
+#EXTGRP:Daredevil
+http://s2.seplay.net/content/stream/films/marvels.daredevil.s03e10.1080p.rus.lostfilm.tv_80774/hls/index.m3u8
 #EXTINF:0 group-title="Одаренные" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1507004787_the-gifted.jpg", 1 сезон 1 серия 'Разоблачение'
 #EXTGRP:Одаренные
 https://s1.seplay.net/content/stream/films/the.gifted.s01e01.1o8op.amzn.webdl.fox_66773/hls/index.m3u8
@@ -1279,7 +1288,7 @@ http://s2.seplay.net/content/stream/films/the.walking.dead.s09e05.1080p.rus.lost
 http://s2.seplay.net/content/stream/films/the.walking.dead.s09e06.1080p.rus.lostfilm.tv_79989/hls/index.m3u8
 #EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_d9e6a526435094708d88048b2debaf24.jpg", 9 сезон 7 серия 'Страдивари'
 #EXTGRP:Ходячие мертвецы
-http://s1.seplay.net/content/stream/films/the.walking.dead.s09e07.hd1080p.webrip.rus.eng.baibako.tv_80594/hls/index.m3u8
+http://s2.seplay.net/content/stream/films/the.walking.dead.s09e07.1080p.rus.lostfilm.tv_80746/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.tools/uploads/thumbs/265_160_1444961498_60281.jpg", 1 сезон 4 серия 'Да истлеет кость'
 #EXTGRP:Слепое пятно
 https://s2.seplay.net/content/stream/films/blindspot.s01e04.720p.web.rus.lostfilm.tv/hls/index.m3u8
@@ -1507,7 +1516,7 @@ http://s1.seplay.net/content/stream/films/titans.s01e05.hd1080p.webrip.rus.eng.b
 http://s1.seplay.net/content/stream/films/titans.s01e05.1080p.rus.lostfilm.tv_79807/hls/index.m3u8
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_110593d50c0f8f43274cec6e4052eb88.jpg", 1 сезон 6 серия 'Джейсон Тодд'
 #EXTGRP:Titans
-http://s2.seplay.net/content/stream/films/titans.s01e06.jaskier_80539/hls/index.m3u8
+http://s1.seplay.net/content/stream/films/titans.s01e06.1080p.rus.lostfilm.tv_80673/hls/index.m3u8
 #EXTINF:0 group-title="Black mirror" tvg-logo="http://static.fanserials.media/uploads/thumbs/265_160_1514543047_black-mirror-season-4-uss-callister.jpg", 4 сезон 1 серия 'Каллистер”'
 #EXTGRP:Black mirror
 http://s2.seplay.net/content/stream/films/black.mirror.s04e01.1080p.rus.lostfilm.tv_76398/hls/index.m3u8
