@@ -1726,10 +1726,10 @@ http://s3.seplay.net/content/stream/films/marvels.the.punisher.s02e06.720p.webri
 http://s2.seplay.net/content/stream/films/marvels.the.punisher.s02e07.720p.webrip.hamsterstudio.org_85952/hls/index.m3u8
 #EXTINF:0 group-title="Punisher" tvg-logo="http://static.fanserials.mobi/uploads/thumbs/265_160_f95e85b02e2eab55ac0f1eca5d86c5a6.jpg", 2 сезон 8 серия 'My Brother's Keeper '
 #EXTGRP:Punisher
-None
+http://s3.seplay.net/content/stream/films/marvels.the.punisher.s02e08.1080p.coldfilm_85933/hls/index.m3u8
 #EXTINF:0 group-title="Punisher" tvg-logo="http://static.fanserials.mobi/uploads/thumbs/265_160_bd67204d917f7a327d59e5e8353f5ad6.jpg", 2 сезон 9 серия 'Flustercluck '
 #EXTGRP:Punisher
-None
+http://s3.seplay.net/content/stream/films/marvels.the.punisher.s02e09.1080p.coldfilm_85934/hls/index.m3u8
 #EXTINF:0 group-title="Punisher" tvg-logo="http://static.fanserials.mobi/uploads/thumbs/265_160_bc5d84904ce2e1ff50af0cefa3d42cab.jpg", 2 сезон 10 серия 'The Dark Hearts of Me'
 #EXTGRP:Punisher
 None
@@ -1754,3 +1754,18 @@ http://s2.seplay.net/content/stream/films/the.orville.s02e03.1080p.rus.lostflim.
 #EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.mobi/uploads/thumbs/265_160_8426cd1942d9240d13e3e5ea91bae18f.jpg", 2 сезон 4 серия 'Ничего не осталось на Земле, кроме рыб'
 #EXTGRP:Orville
 http://s3.seplay.net/content/stream/films/the.orville.s02e04.1080p.gostfilm_85917/hls/index.m3u8
+#EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.mobi/uploads/thumbs/265_160_e04c56d7952cd419654ac867dcad7afa.jpg", 2 сезон спецвыпуск 'Беглянка'
+#EXTGRP:Discovery
+http://s1.seplay.net/content/stream/films/star.trek.discovery.short.treks.s00e01.1080p.rus.lostfilm.tv_82684/hls/index.m3u8
+#EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.mobi/uploads/thumbs/265_160_83eec1f688b38700e36bfcdc6e2e5e30.jpg", 2 сезон спецвыпуск 'Калипсо'
+#EXTGRP:Discovery
+http://s1.seplay.net/content/stream/films/star.trek.discovery.short.treks.s00e02.1080p.rus.lostfilm.tv_82685/hls/index.m3u8
+#EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.mobi/uploads/thumbs/265_160_ac66a997edcb5aed2647ab088a72f629.jpg", 2 сезон спецвыпуск 'Самая яркая звезда'
+#EXTGRP:Discovery
+http://s1.seplay.net/content/stream/films/star.trek.discovery.short.treks.s00e03.1080p.rus.lostfilm.tv_82686/hls/index.m3u8
+#EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.mobi/uploads/thumbs/265_160_d38f0efbb80c9f9c195d3825ac22dd84.jpg", 2 сезон спецвыпуск 'Мастер побега'
+#EXTGRP:Discovery
+http://s2.seplay.net/content/stream/films/star.trek.discovery.short.treks.s00e04.1080p.rus.lostfilm.tv_84904/hls/index.m3u8
+#EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.mobi/uploads/thumbs/265_160_55bb8e53d3467446d002ebd56431be85.jpg", 2 сезон 1 серия 'Брат'
+#EXTGRP:Discovery
+http://s2.seplay.net/content/stream/films/star.trek.discovery.s02e01.1080p.gostfilm_85843/hls/index.m3u8
