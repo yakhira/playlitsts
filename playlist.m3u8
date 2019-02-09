@@ -422,6 +422,9 @@ http://s3.seplay.net/content/stream/films/arrow.s07e10.1080p.rus.lostfilm.tv_864
 #EXTINF:0 group-title="Arrow" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_910234983d3529c694637b357c40670c.jpg", 7 сезон 11 серия 'Прошлые грехи'
 #EXTGRP:Arrow
 http://s2.seplay.net/content/stream/films/arrow.s07e11.1080p.rus.lostfilm.tv_87339/hls/index.m3u8
+#EXTINF:0 group-title="Arrow" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_df42dc8b15fae8589751682cb300b5f0.jpg", 7 сезон 12 серия 'Изумрудный лучник'
+#EXTGRP:Arrow
+http://s1.seplay.net/content/stream/films/arrow.s07e12.1080p.rus.lostfilm.tv_88328/hls/index.m3u8
 #EXTINF:0 group-title="Flash" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1496686098_219796.max-620x600.jpg", 1 сезон 4 серия 'Во все тяжкие'
 #EXTGRP:Flash
 http://s1.seplay.net/content/stream/films/the.flash.s01e04.1080p.rus.lostfilm.tv/hls/index.m3u8
@@ -698,6 +701,9 @@ http://s1.seplay.net/content/stream/films/the.flash.s05e11.1080p.rus.lostfilm.tv
 #EXTINF:0 group-title="Flash" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_fae0e38c6069e7eb148bd621c205a740.jpg", 5 сезон 12 серия 'Памятные вещи'
 #EXTGRP:Flash
 http://s2.seplay.net/content/stream/films/the.flash.s05e12.1080p.rus.lostfilm.tv_87412/hls/index.m3u8
+#EXTINF:0 group-title="Flash" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_8f1b85f7ed475d5d4541c2ce654f66a8.jpg", 5 сезон 13 серия 'Облицованное золото'
+#EXTGRP:Flash
+http://s3.seplay.net/content/stream/films/the.flash.s05e13.1080p.rus.lostfilm.tv_88323/hls/index.m3u8
 #EXTINF:0 group-title="Одаренные" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1507004787_the-gifted.jpg", 1 сезон 1 серия 'Разоблачение'
 #EXTGRP:Одаренные
 http://moonwalk.cc/serial/7bcfe2956ccf1c173e82ef0b76131fd4/iframe?season=01&episode=01&nocontrols=1
@@ -1160,6 +1166,9 @@ http://s2.seplay.net/content/stream/films/the.walking.dead.s09e07.1080p.rus.lost
 #EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_119eb28d9fa89f6e1745b4aa0819c692.jpg", 9 сезон 8 серия 'Эволюция'
 #EXTGRP:Ходячие мертвецы
 http://s1.seplay.net/content/stream/films/the.walking.dead.s09e08.1080p.rus.lostfilm.tv_81486/hls/index.m3u8
+#EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1bbde7e2f184b0e2ce6995f5ce602440.jpg", 9 сезон 9 серия 'Адаптация'
+#EXTGRP:Ходячие мертвецы
+http://s3.seplay.net/content/stream/films/the.walking.dead.s09e09.720p.gostfilm_87852/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1444961498_60281.jpg", 1 сезон 4 серия 'Да истлеет кость'
 #EXTGRP:Слепое пятно
 http://s1.seplay.net/content/stream/films/blindspot.s01e04.720p.web.rus.lostfilm.tv/hls/index.m3u8
@@ -1372,7 +1381,10 @@ http://s2.seplay.net/content/stream/films/blindspot.s04e09.1080p.rus.lostfilm.tv
 http://s2.seplay.net/content/stream/films/blindspot.s04e10.1080p.rus.lostfilm.tv_86179/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_f8403b1c833abc52d5dce37c658ef670.jpg", 4 сезон 11 серия 'Беззаботный шепот'
 #EXTGRP:Слепое пятно
-http://s2.seplay.net/content/stream/films/blindspot.s04e11.720p.coldfilm_87669/hls/index.m3u8
+http://s2.seplay.net/content/stream/films/blindspot.s04e11.1080p.rus.lostfilm.tv_87927/hls/index.m3u8
+#EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_3688ac51a8f2797dab30d1e1072ba323.jpg", 4 сезон 12 серия 'Сказка о книге тайн'
+#EXTGRP:Слепое пятно
+http://s2.seplay.net/content/stream/films/blindspot.s04e12.1080p.coldfilm_88550/hls/index.m3u8
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1539357028_source-tit101e001220v1_full.jpg", 1 сезон 1 серия 'Titans'
 #EXTGRP:Titans
 http://s2.seplay.net/content/stream/films/titans.s01e01.1080p.rus.lostfilm.tv_77376/hls/index.m3u8
@@ -1465,7 +1477,7 @@ http://s2.seplay.net/content/stream/films/black.mirror.s04e05.1080p.rus.lostfilm
 http://s2.seplay.net/content/stream/films/black.mirror.s04e06.1080p.rus.lostfilm.tv_84820/hls/index.m3u8
 #EXTINF:0 group-title="Black mirror" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_b7fdf845bd6c00c00a89d96acef6bb17.jpg", 5 сезон спецвыпуск 'Брандашмыг'
 #EXTGRP:Black mirror
-http://s2.seplay.net/content/stream/films/black.mirror.s05e00.1080p.rus.lostfilm.tv_84956/hls/index.m3u8
+http://s2.seplay.net/content/stream/films/black.mirror.bandersnatch.2018.1080p.web.x264_88018/hls/index.m3u8
 #EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1505146811_the2borville2b-2bepisode2b1.012b-2bpilot2b-2bpromotional2bphoto.jpg", 1 сезон 1 серия 'Старые раны'
 #EXTGRP:Orville
 http://s2.seplay.net/content/stream/films/the.orville.s01e01.old.wounds.720p.webrip.kvk.casstudio.tv_85477/hls/index.m3u8
@@ -1586,3 +1598,6 @@ http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e02.1080p.rus.l
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_a145dfd7daf149084c0249521f5fe15c.jpg", 2 сезон 3 серия 'Точка света'
 #EXTGRP:Discovery
 http://s2.seplay.net/content/stream/films/star.trek.discovery.s02e03.1080p.rus.lostfilm.tv_87726/hls/index.m3u8
+#EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1eb673dc5cb67efdd4867c9c528b5936.jpg", 2 сезон 4 серия 'Монетка для Харона'
+#EXTGRP:Discovery
+http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e04.1080p.rus.lostfilm.tv_88594/hls/index.m3u8
