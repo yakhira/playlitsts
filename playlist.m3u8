@@ -10,7 +10,7 @@ http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&epis
 http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e03.the.commuter.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.center/uploads/thumbs/265_160_1507549069_crazydiamond071700173-600x400.jpg", 4 серия 'Сумасшедший бриллиант'
 #EXTGRP:Electric dreams
-http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=04&nocontrols=1
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e04.crazy.diamond.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.center/uploads/thumbs/265_160_1508125940_10420170505pl0247-fbbe4c8.jpg", 5 серия 'Настоящая жизнь'
 #EXTGRP:Electric dreams
 http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=05&nocontrols=1
@@ -1397,6 +1397,9 @@ http://s2.seplay.net/content/stream/films/blindspot.s04e12.1080p.coldfilm_88550/
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.center/uploads/thumbs/265_160_3688ac51a8f2797dab30d1e1072ba323.jpg", 4 сезон 12 серия 'Сказка о 'Книге тайн''
 #EXTGRP:Слепое пятно
 http://s3.seplay.net/content/stream/films/blindspot.s04e12.1080p.rus.lostfilm.tv_88785/hls/index.m3u8
+#EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.center/uploads/thumbs/265_160_5da8de238e5569b5d812f4cacfb55f14.jpg", 4 сезон 13 серия 'Хотя это безумие, есть способ не допустить этого'
+#EXTGRP:Слепое пятно
+http://s2.seplay.net/content/stream/films/blindspot.s04e13.720p.coldfilm_89452/hls/index.m3u8
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.center/uploads/thumbs/265_160_1539357028_source-tit101e001220v1_full.jpg", 1 сезон 1 серия 'Titans'
 #EXTGRP:Titans
 http://s2.seplay.net/content/stream/films/titans.s01e01.1080p.rus.lostfilm.tv_77376/hls/index.m3u8
@@ -1547,6 +1550,9 @@ http://s3.seplay.net/content/stream/films/the.orville.s02e06.1080p.rus.lostflim.
 #EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.center/uploads/thumbs/265_160_18e09aa9e1ba66f7ec57c9b97faf6f8b.jpg", 2 сезон 7 серия 'Дефлекторы'
 #EXTGRP:Orville
 http://s1.seplay.net/content/stream/films/the.orville.s02e07.1080p.gostfilm_89312/hls/index.m3u8
+#EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.center/uploads/thumbs/265_160_18e09aa9e1ba66f7ec57c9b97faf6f8b.jpg", 2 сезон 7 серия 'Отражатели'
+#EXTGRP:Orville
+http://s1.seplay.net/content/stream/films/the.orville.s02e07.rus.lostfilm.tv_89474/hls/index.m3u8
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1506318159_109752-0909b2-1505081221180_1280w.jpg", 1 сезон 1 серия 'Вулканское приветствие'
 #EXTGRP:Discovery
 http://s1.seplay.net/content/stream/films/star.trek.discovery.s01e01.1080p.rus.lostfilm.tv/hls/index.m3u8
@@ -1619,3 +1625,6 @@ http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e04.1080p.rus.l
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.center/uploads/thumbs/265_160_b49c3d5ce6e8893fcb94a094fce44e48.jpg", 2 сезон 5 серия 'Святые несовершенства'
 #EXTGRP:Discovery
 http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e051080p.gostfilm_89326/hls/index.m3u8
+#EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.center/uploads/thumbs/265_160_b49c3d5ce6e8893fcb94a094fce44e48.jpg", 2 сезон 5 серия 'Святые покровители несовершенства'
+#EXTGRP:Discovery
+http://s1.seplay.net/content/stream/films/star.trek.discovery.s02e05.rus.lostfilm.tv_89460/hls/index.m3u8
