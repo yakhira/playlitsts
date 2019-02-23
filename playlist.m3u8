@@ -16,7 +16,7 @@ http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&epis
 http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e05.real.life.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_1509339128_pkd0274-89d1939.jpg", 6 серия 'Человек — это'
 #EXTGRP:Electric dreams
-http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=06&nocontrols=1
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e06.human.is.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_1515941881_22.jpg", 7 серия 'Убить всех иных'
 #EXTGRP:Electric dreams
 http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e07.kill.all.others.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
@@ -1559,6 +1559,9 @@ http://s1.seplay.net/content/stream/films/the.orville.s02e07.1080p.gostfilm_8931
 #EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_18e09aa9e1ba66f7ec57c9b97faf6f8b.jpg", 2 сезон 7 серия 'Отражатели'
 #EXTGRP:Orville
 http://s3.seplay.net/content/stream/films/the.orville.s02e07.1080p.rus.lostflim.tv_89522/hls/index.m3u8
+#EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_b76d4ac09b2484ebecddb23addf0041f.jpg", 2 сезон 8 серия 'Личность. Часть 1'
+#EXTGRP:Orville
+http://s2.seplay.net/content/stream/films/the.orville.s02e08.1080p.gostfilm_90377/hls/index.m3u8
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1506318159_109752-0909b2-1505081221180_1280w.jpg", 1 сезон 1 серия 'Вулканское приветствие'
 #EXTGRP:Discovery
 http://s1.seplay.net/content/stream/films/star.trek.discovery.s01e01.1080p.rus.lostfilm.tv/hls/index.m3u8
