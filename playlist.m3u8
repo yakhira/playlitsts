@@ -1184,6 +1184,9 @@ http://s3.seplay.net/content/stream/films/the.walking.dead.s09e09.1080p.rus.lost
 #EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_f94ba8a05cc45932a128e4b3e3a721d7.jpg", 9 сезон 10 серия 'Омега'
 #EXTGRP:Ходячие мертвецы
 http://s1.seplay.net/content/stream/films/the.walking.dead.s09e10.1080p.rus.lostfilm.tv_89837/hls/index.m3u8
+#EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_0c0902c5e92d0c0e80246a15056172a5.jpg", 9 сезон 11 серия 'Вознаграждение'
+#EXTGRP:Ходячие мертвецы
+http://s3.seplay.net/content/stream/films/the.walking.dead.s09e11.720p.coldfilm_90650/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1444961498_60281.jpg", 1 сезон 4 серия 'Да истлеет кость'
 #EXTGRP:Слепое пятно
 http://s1.seplay.net/content/stream/films/blindspot.s01e04.720p.web.rus.lostfilm.tv/hls/index.m3u8
@@ -1562,6 +1565,9 @@ http://s3.seplay.net/content/stream/films/the.orville.s02e07.1080p.rus.lostflim.
 #EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_b76d4ac09b2484ebecddb23addf0041f.jpg", 2 сезон 8 серия 'Личность. Часть 1'
 #EXTGRP:Orville
 http://s2.seplay.net/content/stream/films/the.orville.s02e08.1080p.gostfilm_90377/hls/index.m3u8
+#EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_b76d4ac09b2484ebecddb23addf0041f.jpg", 2 сезон 8 серия 'Идентичность. Часть 1'
+#EXTGRP:Orville
+http://s3.seplay.net/content/stream/films/the.orville.s02e08.1080p.rus.lostflim.tv_90523/hls/index.m3u8
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1506318159_109752-0909b2-1505081221180_1280w.jpg", 1 сезон 1 серия 'Вулканское приветствие'
 #EXTGRP:Discovery
 http://s1.seplay.net/content/stream/films/star.trek.discovery.s01e01.1080p.rus.lostfilm.tv/hls/index.m3u8
@@ -1637,3 +1643,6 @@ http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e051080p.gostfi
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_b49c3d5ce6e8893fcb94a094fce44e48.jpg", 2 сезон 5 серия 'Святые покровители несовершенства'
 #EXTGRP:Discovery
 http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e05.1080p.rus.lostfilm.tv_89536/hls/index.m3u8
+#EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_77d4f247a6659bb0983b31bc9b3a1d18.jpg", 2 сезон 6 серия 'Раскаты грома'
+#EXTGRP:Discovery
+http://s2.seplay.net/content/stream/films/star.trek.discovery.s02e06.1080p.rus.lostfilm.tv_90513/hls/index.m3u8
