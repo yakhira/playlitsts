@@ -1177,7 +1177,7 @@ http://s3.seplay.net/content/stream/films/the.orville.s02e08.1080p.rus.lostflim.
 http://s2.seplay.net/content/stream/films/the.orville.s02e09.720p.gostfilm_91327/hls/index.m3u8
 #EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_66f156bd922b83ab2ef369039b8d4fb1.jpg", 2 сезон 9 серия 'Идентичность. Часть 2'
 #EXTGRP:Orville
-http://s3.seplay.net/content/stream/films/the.orville.s02e09.rus.lostfilm.tv_91429/hls/index.m3u8
+http://s3.seplay.net/content/stream/films/the.orville.s02e09.1080p.rus.lostflim.tv_91450/hls/index.m3u8
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1506318159_109752-0909b2-1505081221180_1280w.jpg", 1 сезон 1 серия 'Вулканское приветствие'
 #EXTGRP:Discovery
 http://s1.seplay.net/content/stream/films/star.trek.discovery.s01e01.1080p.rus.lostfilm.tv/hls/index.m3u8
