@@ -7,7 +7,7 @@ http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&epis
 http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=02&nocontrols=1
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_1506930256_electric_dreams_the_commuter.jpg", 3 серия 'Проездной билет'
 #EXTGRP:Electric dreams
-http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=03&nocontrols=1
+http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e03.the.commuter.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_1507549069_crazydiamond071700173-600x400.jpg", 4 серия 'Сумасшедший бриллиант'
 #EXTGRP:Electric dreams
 http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e04.crazy.diamond.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
@@ -25,10 +25,10 @@ http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e07.
 http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=08&nocontrols=1
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_1515944959_9.jpg", 9 серия 'В целости и сохранности'
 #EXTGRP:Electric dreams
-http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e09.safe.and.sound.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=09&nocontrols=1
 #EXTINF:0 group-title="Electric dreams" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_1515944993_10.jpg", 10 серия 'Проблемы с отцом'
 #EXTGRP:Electric dreams
-http://s1.seplay.net/content/stream/films/philip.k.dicks.electric.dreams.s01e10.the.father.thing.1080p.amzn.webdl.rus.eng_casstudio/hls/index.m3u8
+http://moonwalk.cc/serial/716d5b53e170dac1318812320b5ec188/iframe?season=01&episode=10&nocontrols=1
 #EXTINF:0 group-title="Flash" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1496686098_219796.max-620x600.jpg", 1 сезон 4 серия 'Во все тяжкие'
 #EXTGRP:Flash
 http://s1.seplay.net/content/stream/films/the.flash.s01e04.1080p.rus.lostfilm.tv/hls/index.m3u8
@@ -311,6 +311,9 @@ http://s3.seplay.net/content/stream/films/the.flash.s05e13.1080p.rus.lostfilm.tv
 #EXTINF:0 group-title="Flash" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_7a841941c199ee1977ef19cb53abad1a.jpg", 5 сезон 14 серия 'Причина и ИксЭс'
 #EXTGRP:Flash
 http://s2.seplay.net/content/stream/films/the.flash.s05e14.1080p.rus.lostfilm.tv_89193/hls/index.m3u8
+#EXTINF:0 group-title="Flash" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_d6b0d9e5a4240a8fd5d4ff56b21047d5.jpg", 5 сезон 15 серия 'Король Акула против гориллы Гродд'
+#EXTGRP:Flash
+http://s3.seplay.net/content/stream/films/the.flash.s05e15.1080p.rus.lostfilm.tv_92062/hls/index.m3u8
 #EXTINF:0 group-title="Одаренные" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1507004787_the-gifted.jpg", 1 сезон 1 серия 'Разоблачение'
 #EXTGRP:Одаренные
 http://moonwalk.cc/serial/7bcfe2956ccf1c173e82ef0b76131fd4/iframe?season=01&episode=01&nocontrols=1
@@ -791,6 +794,9 @@ http://s1.seplay.net/content/stream/films/the.walking.dead.s09e10.1080p.rus.lost
 #EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_0c0902c5e92d0c0e80246a15056172a5.jpg", 9 сезон 11 серия 'Вознаграждение'
 #EXTGRP:Ходячие мертвецы
 http://s1.seplay.net/content/stream/films/the.walking.dead.s09e11.1080p.rus.lostfilm.tv_90930/hls/index.m3u8
+#EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_89c790f5b5e1d2227d643a0a713d272b.jpg", 9 сезон 12 серия 'Охрана'
+#EXTGRP:Ходячие мертвецы
+http://s2.seplay.net/content/stream/films/the.walking.dead.s09e12.1080p.rus.lostfilm.tv_91819/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1444961498_60281.jpg", 1 сезон 4 серия 'Да истлеет кость'
 #EXTGRP:Слепое пятно
 http://s1.seplay.net/content/stream/films/blindspot.s01e04.720p.web.rus.lostfilm.tv/hls/index.m3u8
@@ -1178,6 +1184,9 @@ http://s2.seplay.net/content/stream/films/the.orville.s02e09.720p.gostfilm_91327
 #EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_66f156bd922b83ab2ef369039b8d4fb1.jpg", 2 сезон 9 серия 'Идентичность. Часть 2'
 #EXTGRP:Orville
 http://s3.seplay.net/content/stream/films/the.orville.s02e09.1080p.rus.lostflim.tv_91450/hls/index.m3u8
+#EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_b4ab81152edbbdf819b1a33e33110e03.jpg", 2 сезон 10 серия 'Кровь патриотов'
+#EXTGRP:Orville
+http://s1.seplay.net/content/stream/films/the.orville.s02e10.720p.kosharaserials_92137/hls/index.m3u8
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1506318159_109752-0909b2-1505081221180_1280w.jpg", 1 сезон 1 серия 'Вулканское приветствие'
 #EXTGRP:Discovery
 http://s1.seplay.net/content/stream/films/star.trek.discovery.s01e01.1080p.rus.lostfilm.tv/hls/index.m3u8
@@ -1262,3 +1271,6 @@ http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e07.1080p.gostf
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_1c71153e10a49569cbdd46e662e44119.jpg", 2 сезон 7 серия 'Свет и тень'
 #EXTGRP:Discovery
 http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e07.1080p.rus.lostfilm.tv_91427/hls/index.m3u8
+#EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.money/uploads/thumbs/265_160_b50a9342793029cc96fd695516af19f9.jpg", 2 сезон 8 серия 'Если не изменяет память'
+#EXTGRP:Discovery
+http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e08.1080p.gostfilm_92151/hls/index.m3u8
