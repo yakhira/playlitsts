@@ -314,6 +314,9 @@ http://s2.seplay.net/content/stream/films/the.flash.s05e14.1080p.rus.lostfilm.tv
 #EXTINF:0 group-title="Flash" tvg-logo="http://static.fanserials.bz/uploads/thumbs/265_160_d6b0d9e5a4240a8fd5d4ff56b21047d5.jpg", 5 сезон 15 серия 'Король Акула против гориллы Гродд'
 #EXTGRP:Flash
 http://s3.seplay.net/content/stream/films/the.flash.s05e15.1080p.rus.lostfilm.tv_92062/hls/index.m3u8
+#EXTINF:0 group-title="Flash" tvg-logo="http://static.fanserials.bz/uploads/thumbs/265_160_e2578fb3d7abde2eed1cd672cc4613a8.jpg", 5 сезон 16 серия 'Неудача — сирота'
+#EXTGRP:Flash
+http://s2.seplay.net/content/stream/films/the.flash.s05e16.1080p.rus.lostfilm.tv_92818/hls/index.m3u8
 #EXTINF:0 group-title="Одаренные" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1507004787_the-gifted.jpg", 1 сезон 1 серия 'Разоблачение'
 #EXTGRP:Одаренные
 http://moonwalk.cc/serial/7bcfe2956ccf1c173e82ef0b76131fd4/iframe?season=01&episode=01&nocontrols=1
@@ -800,6 +803,9 @@ http://s2.seplay.net/content/stream/films/the.walking.dead.s09e12.1080p.rus.lost
 #EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.bz/uploads/thumbs/265_160_032775149230fa310d808f1b3b8a51ee.jpg", 9 сезон 13 серия 'Проходы'
 #EXTGRP:Ходячие мертвецы
 http://s1.seplay.net/content/stream/films/the.walking.dead.s09e13.720p.gostfilm_92421/hls/index.m3u8
+#EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.bz/uploads/thumbs/265_160_032775149230fa310d808f1b3b8a51ee.jpg", 9 сезон 13 серия 'Перевалочный пункт'
+#EXTGRP:Ходячие мертвецы
+http://s3.seplay.net/content/stream/films/the.walking.dead.s09e13.1080p.rus.lostfilm.tv_92616/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1444961498_60281.jpg", 1 сезон 4 серия 'Да истлеет кость'
 #EXTGRP:Слепое пятно
 http://s1.seplay.net/content/stream/films/blindspot.s01e04.720p.web.rus.lostfilm.tv/hls/index.m3u8
@@ -1024,7 +1030,7 @@ http://s3.seplay.net/content/stream/films/blindspot.s04e12.1080p.rus.lostfilm.tv
 http://s3.seplay.net/content/stream/films/blindspot.s04e13.1080p.rus.lostfilm.tv_89689/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.bz/uploads/thumbs/265_160_046e2947b058ac084498eeeacee26dcb.jpg", 4 сезон 14 серия 'Взрывное прошлое из предыдущих серий'
 #EXTGRP:Слепое пятно
-http://s1.seplay.net/content/stream/films/blindspot.s04e14.720p.coldfilm_92275/hls/index.m3u8
+http://s1.seplay.net/content/stream/films/blindspot.s04e14.1080p.rus.lostfilm.tv_92473/hls/index.m3u8
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.bz/uploads/thumbs/265_160_1539357028_source-tit101e001220v1_full.jpg", 1 сезон 1 серия 'Titans'
 #EXTGRP:Titans
 http://s2.seplay.net/content/stream/films/titans.s01e01.1080p.rus.lostfilm.tv_77376/hls/index.m3u8
@@ -1192,7 +1198,7 @@ http://s2.seplay.net/content/stream/films/the.orville.s02e09.720p.gostfilm_91327
 http://s3.seplay.net/content/stream/films/the.orville.s02e09.1080p.rus.lostflim.tv_91450/hls/index.m3u8
 #EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.bz/uploads/thumbs/265_160_b4ab81152edbbdf819b1a33e33110e03.jpg", 2 сезон 10 серия 'Кровь патриотов'
 #EXTGRP:Orville
-http://s3.seplay.net/content/stream/films/the.orville.s02e10.rus.lostfilm.tv_92295/hls/index.m3u8
+http://s3.seplay.net/content/stream/films/the.orville.s02e10.1080p.rus.lostflim.tv_92559/hls/index.m3u8
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1506318159_109752-0909b2-1505081221180_1280w.jpg", 1 сезон 1 серия 'Вулканское приветствие'
 #EXTGRP:Discovery
 http://s1.seplay.net/content/stream/films/star.trek.discovery.s01e01.1080p.rus.lostfilm.tv/hls/index.m3u8
