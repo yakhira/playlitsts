@@ -1042,7 +1042,7 @@ http://s1.seplay.net/content/stream/films/blindspot.s04e14.1080p.rus.lostfilm.tv
 http://s2.seplay.net/content/stream/films/blindspot.s04e15.1080p.rus.lostfilm.tv_93430/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.sale/uploads/thumbs/265_160_f579c895716103ab57077cd6d32c7504.jpg", 4 сезон 16 серия 'Эпизод, в котором Джейн посещает старого друга'
 #EXTGRP:Слепое пятно
-None
+http://s3.seplay.net/content/stream/films/blindspot.s04e16.720p.coldfilm_94200/hls/index.m3u8
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.sale/uploads/thumbs/265_160_1539357028_source-tit101e001220v1_full.jpg", 1 сезон 1 серия 'Titans'
 #EXTGRP:Titans
 http://s2.seplay.net/content/stream/films/titans.s01e01.1080p.rus.lostfilm.tv_77376/hls/index.m3u8
@@ -1213,7 +1213,7 @@ http://s3.seplay.net/content/stream/films/the.orville.s02e09.1080p.rus.lostflim.
 http://s3.seplay.net/content/stream/films/the.orville.s02e10.1080p.rus.lostflim.tv_92559/hls/index.m3u8
 #EXTINF:0 group-title="Orville" tvg-logo="http://static.fanserials.sale/uploads/thumbs/265_160_0cab7c6b2785c73bb90921337a7fe6e7.jpg", 2 сезон 11 серия 'Незабываемые впечатления'
 #EXTGRP:Orville
-http://s2.seplay.net/content/stream/films/the.orville.s02e11.1080p.gostfilm_94024/hls/index.m3u8
+http://s2.seplay.net/content/stream/films/the.orville.s02e11.1080p.rus.lostflim.tv_94252/hls/index.m3u8
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1506318159_109752-0909b2-1505081221180_1280w.jpg", 1 сезон 1 серия 'Вулканское приветствие'
 #EXTGRP:Discovery
 http://s1.seplay.net/content/stream/films/star.trek.discovery.s01e01.1080p.rus.lostfilm.tv/hls/index.m3u8
@@ -1309,4 +1309,4 @@ http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e08.1080p.rus.l
 http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e09.1080p.rus.lostfilm.tv_93196/hls/index.m3u8
 #EXTINF:0 group-title="Discovery" tvg-logo="http://static.fanserials.sale/uploads/thumbs/265_160_8125dce1ebe94beaa2a67a8db62473ac.jpg", 2 сезон 10 серия 'Красный ангел'
 #EXTGRP:Discovery
-http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e10.1080p.gostfilm_94019/hls/index.m3u8
+http://s3.seplay.net/content/stream/films/star.trek.discovery.s02e10.1080p.rus.lostfilm.tv_94205/hls/index.m3u8
