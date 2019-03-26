@@ -812,6 +812,9 @@ http://s3.seplay.net/content/stream/films/the.walking.dead.s09e13.1080p.rus.lost
 #EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.sale/uploads/thumbs/265_160_6f1b5c243d314567563715fb8cac453d.jpg", 9 сезон 14 серия 'Шрамы'
 #EXTGRP:Ходячие мертвецы
 http://s1.seplay.net/content/stream/films/the.walking.dead.s09e14.1080p.rus.lostfilm.tv_93578/hls/index.m3u8
+#EXTINF:0 group-title="Ходячие мертвецы" tvg-logo="http://static.fanserials.sale/uploads/thumbs/265_160_f61cb234ee011474df5c999d7630a4b6.jpg", 9 сезон 15 серия 'Затишье перед...'
+#EXTGRP:Ходячие мертвецы
+http://s3.seplay.net/content/stream/films/the.walking.dead.s09e15.1080p.rus.lostfilm.tv_94638/hls/index.m3u8
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.tel/uploads/thumbs/265_160_1444961498_60281.jpg", 1 сезон 4 серия 'Да истлеет кость'
 #EXTGRP:Слепое пятно
 http://s1.seplay.net/content/stream/films/blindspot.s01e04.720p.web.rus.lostfilm.tv/hls/index.m3u8
@@ -1043,6 +1046,9 @@ http://s2.seplay.net/content/stream/films/blindspot.s04e15.1080p.rus.lostfilm.tv
 #EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.sale/uploads/thumbs/265_160_f579c895716103ab57077cd6d32c7504.jpg", 4 сезон 16 серия 'Эпизод, в котором Джейн посещает старого друга'
 #EXTGRP:Слепое пятно
 http://s3.seplay.net/content/stream/films/blindspot.s04e16.720p.coldfilm_94200/hls/index.m3u8
+#EXTINF:0 group-title="Слепое пятно" tvg-logo="http://static.fanserials.sale/uploads/thumbs/265_160_f579c895716103ab57077cd6d32c7504.jpg", 4 сезон 16 серия 'Серия, в которой Джейн навещает старого друга'
+#EXTGRP:Слепое пятно
+http://s2.seplay.net/content/stream/films/blindspot.s04e16.1080p.rus.lostfilm.tv_94442/hls/index.m3u8
 #EXTINF:0 group-title="Titans" tvg-logo="http://static.fanserials.sale/uploads/thumbs/265_160_1539357028_source-tit101e001220v1_full.jpg", 1 сезон 1 серия 'Titans'
 #EXTGRP:Titans
 http://s2.seplay.net/content/stream/films/titans.s01e01.1080p.rus.lostfilm.tv_77376/hls/index.m3u8
